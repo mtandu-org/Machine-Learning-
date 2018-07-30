@@ -30,6 +30,7 @@ supervised learning:is the  ML type in which both input and output data are trai
   Regression algorithms
   - Linear regression
   - Logistic  Regression
+  #### Unsupervised Learning
  Unsupervised Learning:is the type of learning that transform the interest in a raw data(unlabeled data), forexample classification of the blog visitor without classify a visitor belong to a certain group.
 #### Unsupervised Learning problem
  - clustering algorithm:its train unlabeled data and clustering a data with similar characteristics 
@@ -44,6 +45,7 @@ supervised learning:is the  ML type in which both input and output data are trai
  - Dimensionality reduction  algorithm
  - Association Rule algorithm 
    - Apriori
+  #### Reinforcement Learning
 Reinforcement Learning:Agent perceive environment and choose action based on maximizing rewards or penalties for negative rewards example AlphaGo, self driving cars,
 Semi supervised Learning: learning with a lot of unlabeled data and a bit labbed data ,this occur in the  photo hosting application 
 

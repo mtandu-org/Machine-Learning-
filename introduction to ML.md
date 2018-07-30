@@ -30,6 +30,7 @@ supervised learning:is the  ML type in which both input and output data are trai
   Regression algorithms
   - Linear regression
   - Logistic  Regression
+  #### Unsupervised Learning
  Unsupervised Learning:is the type of learning that transform the interest in a raw data(unlabeled data), forexample classification of the blog visitor without classify a visitor belong to a certain group.
 #### Unsupervised Learning problem
  - clustering algorithm:its train unlabeled data and clustering a data with similar characteristics 

@@ -11,13 +11,14 @@ On going i learned about  both classification and regression problems from super
 * classfication problem this train a model to do predition of with descrete output.it seems like yes/no preblem which can be solved with different ML models inlu.de Logistic regression,K-nearest neighbor,Random forest,Decision Tree,suport vector machine and neu*al net
 * Regression problem we train our model to predict continous value or float points values.this can be solved by the ML models which are Liner*regression and logistic regression.
  
-More so I jumped over UNsupervised learning problem,this is where the full meaning of differentiate supervised from unsupervised learning and trying to understand different unsupervised learning problem as i mentioned a little bit about it below. Unsupervised Learning problem:this include classtering ,Dimensionality reduction and Association Rule
+More so I jumped over Unsupervised learning problem,this is where the full meaning of differentiate supervised from unsupervised learning and trying to understand different unsupervised learning problem as i mentioned a little bit about it below. Unsupervised Learning problem:this include classtering ,Dimensionality reduction and Association Rule
 * clustering algorithm:its train unlabeled data and clustering a data with similar characteristics .this can be solved with ML modes like K-Means ,Hierachical clustering Algorithm and Expected maximization
 * Dimensionality Reduction:is the simplification of a data without loss of information 
 * Association Rule :is the rule that express that if an event occur there is probability of other 
    event to occur. which can be solved by Apriori.
-Reinforcement Learning:Agent perceive environment and choose action based on maximizing rewards or penalties for negative rewards example AlphaGo, self driving cars,
-Semi supervised Learning: learning with a lot of unlabeled data and a bit labbed data ,this occur in the  photo hosting a*plication 
+   
+Reinforcement Learning This was a little bit easier to me because i learned it in my Artificial interlligent cause  and was short part like introducing about agents ,enviroment and actions after perciving its enviroment by different sensors that agent have to optimize the rewards. these may be seen in different agent AlphaGo,self driving cars,Alexa and so on.
+Semi supervised Learning: learning with a lot of unlabeled data and a bit labbed data ,this occur in the  photo hosting application 
 
 Model based Learning: create a model and make prediction using a model ,we use utility function to measure how good our model is and cost function to measure how bad is , which it measure the diatance between predicted model and training .
 Instance based :measure by checking similarity between two class.

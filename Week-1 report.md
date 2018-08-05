@@ -1,5 +1,5 @@
 # Machine-Learning ParrotAiIPT week 1 report
-I learned about Machine learning which is the teqnique to program a computer to learn through data.
+On starting day, we had a friendly introduction to get to know each other,which then we decide a proposed schedule for the week and here i was starting to gear my week in ML.I learned about Machine learning which is the teqnique to program a computer to learn through data.
 it has different types which are:
    Supervised learning,unsupervised,semi supervised learning and reinfocement learning
 * in supervised learning we train our data to predict a new /unseen data with both input and output data

@@ -27,6 +27,6 @@ Further watches,it's about K Nearest Neighbor is the machine learning model trai
 Finally,It was about a week 1 challenge. it was a bit tough with alot of interrogation and this is because it has been different with the challenges i used to work with by having a single dataset which is then we split that dataset in both training and test set with the help of sklearn library,then its easier to verify your testing perfomance by having the test taget data by comparing with those predicted one, beside that I learned practical feature engineering where in my task i use 
 to check feature coralation with tagets to chose the features to train our model on top of that I grasp the knowledge on how to change categorical variable to numerical.
 
-Conlusive the week was tiresome because I'm still catching up with mode of learning ,self reading and intensive learning but i really enjoying it because I have got alot through this. 
+Conlusive the week was tiresome because I'm still catching up with mode of learning ,intensive self learning and daily presantation of what you have learn to others but i really enjoying it because I have got alot through this. 
 
 

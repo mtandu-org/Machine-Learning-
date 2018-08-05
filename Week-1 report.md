@@ -7,7 +7,7 @@ it has different types which are:
 * In reinfocement learning agent tend to percive its enviroment and choose the action based on maximizing the reward
   supervised learning problem
   
-  On going i learned about  both classification and regression problems from supervised leraning here i grasp the knowledge to understand which kind of problem could be either classfication and regression in which :
+On going i learned about  both classification and regression problems from supervised leraning here i grasp the knowledge to understand which kind of problem could be either classfication and regression in which :
  * classfication problem this train a model to do predition of with descrete output.it seems like yes/no preblem which can be solved with different ML models inlude Logistic regression,K-nearest neighbor,Random forest,Decision Tree,suport vector machine and neural net
  * Regression problem we train our model to predict continous value or float points values.this can be solved by the ML models which are Liner regression and logistic regression.
  

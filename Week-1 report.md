@@ -25,8 +25,7 @@ Latly i leraned about  Challenges of ML
 - Poor quality data
 - Irellevant features(good way to do is features engineering)
 - Non represantative training data
-
-####In second case
+#### In second case
 I learned about Feature engineering which are techinique to choose the best feature to use in your data set,This can be done either by feature extraction and feature selection ,in which in feature selection we chose the best feature in our data set to train our model which can be achived by automatic feature selection Uvariate feature selection,model based feature selection and iterative feature selection which train model to remove recusive features.
  Lastly I learned
 

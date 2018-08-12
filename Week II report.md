@@ -29,5 +29,5 @@ Apart from that I learned about this stunning Technique to help your network /mo
 * varible lenth in both input and output
 * keep tracking of dependences 
 * parameter sharing 
-  forample time series ,object tracking  in video,music generation ,speech recognition and many more
+ forample time series ,object tracking  in video,music generation ,speech recognition and many more
 .The types of RNN which are LSTM and GRU. The technique succesfull in different scenario like Sentimental Analysis, Language Modeling,Text Generation,Speech recognition,Music Generation,Image captioning and time series data forecasting forexample Final Forecasting,wether forecasting and so on 

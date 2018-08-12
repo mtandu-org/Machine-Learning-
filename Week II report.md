@@ -25,7 +25,7 @@ and Deep Learning are acompaned by the following
   
    Also I learned about Transfer Learning, Convulational neural Network(CNN) the best network for computer vision in both theory part  and practical part by implementing Lab3 and Lab4 back to Transfer Learning,In rel problem we suffer insufficient of data which can lead worse model based on your problem,here is  where transfer Learning arise . we train ur model in pretrained state of art which were trained in many images forexample AlexNet in more than 1.2 millions with 1000 different category by changing output layer acoding to your problem
    
-    Lastly, We had a better session from Mr Antony concerning Recurrent Neural Network this model are work much better in sequence data which posses
+  Lastly, We had a better session from Mr Antony concerning  Recurrent Neural Network this model are work much better in sequence data which posses
 * varible lenth in both input and output
 * keep tracking of dependences 
 * parameter sharing 

@@ -2,7 +2,7 @@
 I had review in details in Transfer Learning to aquire more skills concerning my project ,These are some of take aways
 Tranfer Learning: is ML method in which the existing model are as the initial point to perform other task,like ResNet
   VG19, and AlexNet
-### Why Tranfer Learning .
+### Why Tranfer Learning 
 * Few  ML enginer train CNN from sqrach since in real problem its hard to find huge dataset
 * Deep Neural Network its hard to train
 * To datamine hyperparameters its difficult it has no much theory

@@ -33,7 +33,7 @@ by predicting user interest and recomend iterms that user likely to be interstin
 such as ratings,number of purchasing history
 
 Lastly I had a interesting session about planning and wringing ML experment,what i have got solving ML problem 
-is not about coding and has some stategics or plann to follow which are.
+is not about coding and has some stategics or plan to follow which are.
 * Understand your problem is it classification or regression |supervised or unsupervised
 * Understand your data is it binary or multiclass ,timeserries or seqeunce data
 * Understand which algorithm will use to your problem

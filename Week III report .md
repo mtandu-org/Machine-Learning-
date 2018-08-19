@@ -27,7 +27,7 @@ by predicting user interest and recomend iterms that user likely to be interstin
 * The user start to fill known which make them more likely to buy products
 * Allow company to be position ahead of compitators
 
-### ypes of recommendor systems
+### Types of recommendor systems
 * Content based which deals with infomation about items like keywords and user preference or profile
 * collaborative Filltering uliterlize user interactions of fillteritems of interest deals with iterms 
 such as ratings,number of purchasing history
@@ -36,4 +36,16 @@ Lastly I had a interesting session about planning and wringing ML experment,what
 is not about coding and has some stategics or plann to follow which are.
 * Understand your problem is it classification or regression |supervised or unsupervised
 * Understand your data is it binary or multiclass ,timeserries or seqeunce data
-*
+* Understand which algorithm will use to your problem
+* Be familiar on which metrics you will use to acess perfomance of your model
+
+On top of that i got alot about ML code management first have your git repository,recommended to have private repository 
+to work with your data before publishing which consist of different folders for your project like
+* /Data folder for your dataset
+* /figures for all figures in your project
+* /log to control your log
+* /notebook all note book to work with
+* /result here we store our results
+* /src for all source codes  and modules to be used in your projectfor your project
+* /readme mantain the read me to express your project
+

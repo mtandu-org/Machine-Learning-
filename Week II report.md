@@ -1,6 +1,6 @@
 ## Week II report ParrotAI IPT
 In week two, one of the topic i covered was deep learning, which is the subclass of machine learning algorithm that learn underlying feature in data using multiple processing layers with multiple level of abstraction.     
-Beside that there is a lot of field which Deep learning perfom well, which include;
+Beside that there is a lot of field which Deep learning perfom well, which include
  * Image captioning,Object Detection,
  * Image style Transfer,Self driving cars,
  * Machine translation ,Dignosys of Different Diseases like Pnemonia using Chest Xray images.
